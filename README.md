@@ -1,1 +1,2 @@
 # OVGBJira
+arreglo de bug
